@@ -1,0 +1,4 @@
+<FilesMatch "\.(pdf|jpg|jpeg|png|doc|docx)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
