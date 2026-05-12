@@ -1,4 +1,4 @@
-# Enterprise Management System
+# Kreate intern project details
 
 A web-based enterprise management system developed during my internship at Kreate Technologies Pvt. Ltd. using CodeIgniter 3, PHP, MySQL, AJAX, and Bootstrap.  
 The project focuses on employee management, client handling, client contact management, NOC workflows, authentication systems, file handling, and administrative operations.
