@@ -214,5 +214,3 @@ Run project on XAMPP/LAMP server
 ## Rounak Molpariya
 
 GitHub: https://github.com/Roun4kk
-
-GitHub: https://github.com/Roun4kk
